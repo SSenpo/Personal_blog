@@ -4,4 +4,4 @@
 *.pyc
 __pycache__
 db.sqlite3
-media/profile_pics/**
+profile_pics
