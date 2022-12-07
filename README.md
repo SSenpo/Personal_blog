@@ -50,5 +50,4 @@ Currently implemented user registration, login / logout , profile , edit profile
 
 <div align="center">
 <img width="776" alt="Снимок экрана 2022-12-07 в 17 40 53" src="https://user-images.githubusercontent.com/90391143/206213794-6cbf5d13-c3a2-4d12-99b8-9af3f3f5421e.png">
-<img width="798" alt="Снимок экрана 2022-12-07 в 17 42 10" src="https://user-images.githubusercontent.com/90391143/206213863-ebd5250b-088b-4d2d-a829-0c2973dccc29.png">
 </div>
