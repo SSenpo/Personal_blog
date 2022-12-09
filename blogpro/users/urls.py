@@ -6,7 +6,6 @@ from . import views as user_views
 
 urlpatterns = [
     path("", include("blog.urls")),
-    # user authentications
     path("register/", user_views.register, name="register"),
     path("profile/", user_views.profile, name="profile"),
     path("profile/profile_update/", user_views.profile_update, name="profile-update"),
