@@ -46,7 +46,7 @@ cd blogpro/
 
 ## All detailed information in the [django documentation](https://docs.djangoproject.com/en/4.1/)
 
-Currently implemented user registration, login / logout , profile , edit profile.
+Currently implemented user registration, login / logout , profile , edit profile, posts.
 
 <div align="center">
     <img width="1202" alt="Снимок экрана 2022-12-08 в 00 40 39" src="https://user-images.githubusercontent.com/90391143/206303329-1f8f1564-2e09-42b8-a91c-f07ff5ee931d.png">
